@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <img src="mixitupGIF.gif" alt="Logo"> 
-  <h3 align="center">School Counsellor's Communication Logs</h3>
+  <h3 align="center">MixItUp</h3>
   <p align="center">
    I am API savvy so I wanted to make an app to demonstrate this and to have something for my friends and family to use also. This fetches data from the CocktailDb, free with some limitations; CocktailDb is an open source database providing instructions and ingredients for making cocktails. This page offers search options, browsing by letter, and if you have an ingredient at the house, you can find the ingredient in the list to see all the drinks that are possible. I hope if you go to check it out, you find a drink to make this weekend that is different and satisfying. I like to mix things up a bit and explore what the world has to offer, I encourage it.
   
