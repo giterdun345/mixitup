@@ -74,7 +74,7 @@ See `LICENSE` for more information.
 
 John Ketterer - email: johnmketterer@gmail.com
 
-Project Demo: [https://comlogs-demo.netlify.app](https://comlogs-demo.netlify.app)
+Project Demo: [https://mixitupketterer.netlify.app/](https://mixitupketterer.netlify.app/)
 
 Project Link: [https://github.com/giterdun345/mixitup](https://github.com/giterdun345/mixitup)
 
