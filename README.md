@@ -1,4 +1,4 @@
-# Guidance Counsellor's Communication Logs
+# MixItUp
 <!-- PROJECT SHIELDS -->
 [![Issues][issues-shield]][issues-url]
 <!-- [![MIT License][license-shield]][license-url] -->
