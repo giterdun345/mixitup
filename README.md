@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Guidance Counsellor's Communication Logs
+<!-- PROJECT SHIELDS -->
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<!-- ![admin demo](client/src/components/images/heart.jpg) -->
+<br />
+<p align="center">
+  <img src="mixitupGIF.gif" alt="Logo"> 
+  <h3 align="center">School Counsellor's Communication Logs</h3>
+  <p align="center">
+   I am API savvy so I wanted to make an app to demonstrate this and to have something for my friends and family to use also. This fetches data from the CocktailDb, free with some limitations; CocktailDb is an open source database providing instructions and ingredients for making cocktails. This page offers search options, browsing by letter, and if you have an ingredient at the house, you can find the ingredient in the list to see all the drinks that are possible. I hope if you go to check it out, you find a drink to make this weekend that is different and satisfying. I like to mix things up a bit and explore what the world has to offer, I encourage it.
+  
+  <br />
+  <a href="https://mixitupketterer.netlify.app/">View Demo</a>
+  
+  <a href="https://github.com/giterdun345/mixitup/issues">Report Bug</a>
+  
+  <a href="https://github.com/giterdun345/mixitup/issues">Request Feature</a>
+  </p>
+</p>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+<!-- ABOUT THE PROJECT -->
+## About The Project
+This project uses an API to fetch data from [CocktailDB](https://www.thecocktaildb.com/). I used React and Sass to create the page and host it on Netlify. I wanted to make this as quick as possible, as performance is always on the top of my mind. I learned alot about using Webpack, lazy loading and how to optimize your build. There were a load of features I would have liked to add but didn't want to dish out the money for full access. I would consider one of my strong suits as working with data, whether it be by building or using APIs or creating applications to manage data.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built With
 
-### `npm run build`
+* React
+* Sass
+* Netlify
+ 
+<!-- CONTRIBUTING -->
+## Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are what make the open source community such an amazing place to be learn, 
+inspire, and create. Any contributions you make are **greatly appreciated**. Also you are welcome to use and adapt this as needed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/updatedFeature`)
+3. Commit your Changes (`git commit -m 'Add some updatedFeature'`)
+4. Push to the Branch (`git push origin feature/updatedFeature`)
+5. Open a Pull Request
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- LICENSE -->
+## License
+See `LICENSE` for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- CONTACT -->
+## Contact
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+John Ketterer - email: johnmketterer@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Project Demo: [https://comlogs-demo.netlify.app](https://comlogs-demo.netlify.app)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Project Link: [https://github.com/giterdun345/mixitup](https://github.com/giterdun345/mixitup)
 
-## Learn More
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[issues-shield]: https://img.shields.io/github/issues/giterdun345/mixitup.svg?style=for-the-badge
+[issues-url]: https://github.com/giterdun345/mixitup/issues
+[license-shield]: https://img.shields.io/github/license/giterdun345/mixitup.svg?style=for-the-badge
+[license-url]: https://github.com/giterdun345/mixitup/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/jm-ketterer
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
